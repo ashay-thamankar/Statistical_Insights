@@ -59,5 +59,12 @@ The coefficients (β0, β1, β2, β3, β4) indicate the strength and direction o
 
 ## Conclusion
 
-The insights gained from this regression analysis can be used by both buyers and sellers in the second-hand car market to make informed decisions regarding pricing and purchasing. This project provides a foundation for understanding how various factors influence the pricing of used cars.
+In summary, our regression analysis of second-hand cars reveals the following key findings:
+
+- Mileage: As mileage increases, car prices decrease.
+- Engine Volume: Larger engine volumes lead to higher car prices.
+- Year of Production: Newer cars generally have higher prices, with a 4% increase per year.
+- Dummy Variables: Specific car brands contribute to price variations.
+
+These insights provide a clear understanding of the factors influencing second-hand car prices, aiding both buyers and sellers in making informed decisions.
 
